@@ -26,6 +26,8 @@ As of **14 November 2026**, this account has **33 public repositories** (includi
 | [LimeShift](https://github.com/vaishnavsawant1994-stack/limeshift-portfolio-) | Interactive, reference-based portfolio theme | HTML, CSS, JavaScript, motion |
 | [VORTEX](https://github.com/vaishnavsawant1994-stack/vortex-Portfolio-) | Dark/light cinematic portfolio theme | HTML, CSS, JavaScript, Netlify |
 
+For a complete public list, see [**All public repositories (audited 14 November 2026)**](PUBLIC_REPOSITORIES.md). Private repositories are intentionally excluded from this index.
+
 ## Product areas
 
 - **AI and agents:** virtual compute, personal AI continuity, knowledge systems, human–AI collaboration
