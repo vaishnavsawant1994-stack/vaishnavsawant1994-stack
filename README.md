@@ -4,7 +4,7 @@
 
 I build and organize full-stack product concepts across artificial intelligence, secure agent infrastructure, business operations, editorial publishing, HR technology, commerce, agriculture, and digital workspaces.
 
-This account currently contains **23 project repositories**. Each repository includes a concise About description and a detailed README that explains its purpose, contents, current maturity, and next recommended milestone.
+As of **14 November 2026**, this account has **33 public repositories** (including this GitHub profile and shared community-standards repository), alongside private workspaces. The portfolio includes applications, prototypes, experiments and reserved names. Documentation and release maturity vary; read each project's current evidence before treating it as production-ready.
 
 ## Featured projects
 
@@ -18,6 +18,13 @@ This account currently contains **23 project repositories**. Each repository inc
 | [HRMS New](https://github.com/vaishnavsawant1994-stack/HRMS-NEW) | Employee, attendance, leave, payroll, and HR operations platform | React, Express, PostgreSQL |
 | [Visionary Leaders](https://github.com/vaishnavsawant1994-stack/visionary-leaders) | Magazine and editorial content-management platform | JavaScript, publishing workflows |
 | [Agrosmart AI](https://github.com/vaishnavsawant1994-stack/Agrosmart-AI) | Farmer-facing agriculture application foundation | JavaScript, dashboards, agritech |
+| [Vishnu](https://github.com/vaishnavsawant1994-stack/vishnu) | Personal AI system with memory, workspaces, agents and controlled execution | Python, desktop/web, AI infrastructure |
+| [The Next Farmer](https://github.com/vaishnavsawant1994-stack/the-next-farmer) | Farmer-first agriculture planning pilot in English and Marathi | Local-first web, farm/crop records |
+| [The Next PM](https://github.com/vaishnavsawant1994-stack/the-next-pm) | Independent, nonpartisan Indian election information platform | Elections, source verification, editorial tools |
+| [Rudra Health Care Centre](https://github.com/vaishnavsawant1994-stack/Rudra-Health-Care-Centre) | Diagnostics operations engineering foundation, not a clinical release | Node.js, PostgreSQL, scoped APIs |
+| [Lead Intelligence OS](https://github.com/vaishnavsawant1994-stack/lead-intelligence-os) | Lead intelligence SaaS work in progress | Next.js, Prisma, CRM workflows |
+| [LimeShift](https://github.com/vaishnavsawant1994-stack/limeshift-portfolio-) | Interactive, reference-based portfolio theme | HTML, CSS, JavaScript, motion |
+| [VORTEX](https://github.com/vaishnavsawant1994-stack/vortex-Portfolio-) | Dark/light cinematic portfolio theme | HTML, CSS, JavaScript, Netlify |
 
 ## Product areas
 
