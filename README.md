@@ -28,6 +28,8 @@ As of **14 November 2026**, this account has **33 public repositories** (includi
 
 For a complete public list, see [**All public repositories (audited 14 November 2026)**](PUBLIC_REPOSITORIES.md). Private repositories are intentionally excluded from this index.
 
+The [**GitHub About and Topics proposals**](PUBLIC_METADATA_PROPOSALS.md) list missing public metadata fields for owner-side application. Private repositories are excluded.
+
 ## Product areas
 
 - **AI and agents:** virtual compute, personal AI continuity, knowledge systems, human–AI collaboration
