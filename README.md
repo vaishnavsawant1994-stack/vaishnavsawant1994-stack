@@ -54,3 +54,7 @@ Common technologies across the portfolio include:
 ---
 
 Building practical systems that connect product design, business workflows, secure automation, and AI.
+
+## Detailed project guide
+
+The [**Project Handbook**](docs/PROJECT_HANDBOOK.md) describes the repository's specific goals, users, source architecture, functional areas, current qualification limits, development setup, security requirements and next milestones. It differentiates implemented source from unverified or planned functionality.
